@@ -21,7 +21,7 @@
                   "Value": "USD"
               }]
           },
-          "Period": 86400,
+          "Period": 21600,
           "Stat": "Maximum"
       },
       "ReturnData": false
